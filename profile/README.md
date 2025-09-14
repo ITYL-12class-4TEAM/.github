@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/f0b57239-a8ad-4597-b02a-f2dbc6558ebc" alt="FinMate Logo" width="32" /> FinMate Frontend
+# <img src="https://github.com/user-attachments/assets/f0b57239-a8ad-4597-b02a-f2dbc6558ebc" alt="FinMate Logo" width="32" /> FinMate
 
 > **당신만을 위한 금융 메이트, FinMate**  
 개인 투자 성향 분석을 기반으로 금융 상품을 추천하고 비교할 수 있는 웹 서비스입니다.  
